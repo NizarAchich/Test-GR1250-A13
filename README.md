@@ -1,6 +1,6 @@
 # Dépot Test-GR1250-A13
 Ce dépot est un test dans le cadre du cours A13
-<img src="image_logo.jpg" alt="logo du college" width="100px" height="100px">
+<img src="logo.jpg" alt="logo du college" width="100px" height="100px">
 ## Github
 1. Initialiser un dépot
 2. Commit
