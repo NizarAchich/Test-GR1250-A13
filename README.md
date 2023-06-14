@@ -1,5 +1,6 @@
 # Dépot Test-GR1250-A13
 Ce dépot est un test dans le cadre du cours A13
+<img src="image_logo.jpg" alt="logo du college" width="100px" height="100px">
 ## Github
 1. Initialiser un dépot
 2. Commit
@@ -24,4 +25,4 @@ Ce dépot est un test dans le cadre du cours A13
 8. fermer un issue aprés un merge de la branche
 ## Publier le readme.md
 1. activer le serveur md
-2. 
+2. integrer du html dans votre redme.md
